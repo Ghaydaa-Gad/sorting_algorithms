@@ -67,3 +67,4 @@ radix_counting_sort(array, size, sig, buff);
 print_array(array, size);
 }
 free(buff);
+}
